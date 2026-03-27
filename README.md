@@ -67,9 +67,9 @@ The mean ROI (~5.14) indicates that, on average, movies generate approximately f
 
 Genre-based analysis reveals:
 
-- Animation movies have the highest average (~$298M) and median (~$293M) revenue, indicating strong and consistent performance  
-- Documentary movies have the highest average ROI (~7.57), likely due to low production costs  
-- Western movies have the highest median ROI (~2.85), suggesting consistent efficiency  
+- Animation movies have the highest average (~ $298M) and median (~ $293M) revenue, indicating strong and consistent performance  
+- Documentary movies have the highest average ROI (~ 7.57), likely due to low production costs  
+- Western movies have the highest median ROI (~ 2.85), suggesting consistent efficiency  
 
 Animation movies represent only about **3% of the dataset**, so their strong performance should be interpreted with caution.
 
