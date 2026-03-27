@@ -32,8 +32,8 @@ Several preprocessing steps were performed to ensure data quality:
         ◦ Profit = Revenue − Budget
         ◦ ROI (Return on Investment) = Revenue / Budget
         ◦ Release Month extracted from release date
-        
-We observed after data cleaning that we have lost 33,4% of the data, this implies that we have removed movies with missing financial data to ensure accurate ROI and profit calculation. These steps ensured that the dataset was reliable for analysis.
+We observed after data cleaning that we have lost 33,4% of the data, this implies that we have removed movies with missing financial data to ensure accurate ROI and profit calculation. These steps 
+ensured that the dataset was reliable for analysis.
 ---
 
 ## Analysis
