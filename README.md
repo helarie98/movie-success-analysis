@@ -69,6 +69,7 @@ The mean ROI (~5.14) indicates that, on average, movies generate approximately f
 
 
 **Median Metrics by Genre** 
+
 <img src="genre_pivot_table_with_median.png" width="45%"/>
 
 Genre-based analysis reveals:
