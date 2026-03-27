@@ -90,7 +90,7 @@ Animation movies represent only about **3% of the dataset**, so their strong per
 ## Business Implications
 The findings suggest that investment decisions in the film industry should balance scale and efficiency. While high-budget productions can generate significant revenue, smaller-budget films may deliver better returns on investment. Additionally, genre selection plays a critical role, as different genres offer varying risk-return profiles.
 
----
+----
 
 ##  Tools Used
 - Microsoft Excel  
