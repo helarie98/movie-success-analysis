@@ -1,4 +1,4 @@
-# 🎬 Movie Success Analysis
+ 🎬 Movie Success Analysis
 
 ## 📖 Overview
 This project analyzes a dataset of over 3,200 movies to identify the key factors that drive movie success. The analysis focuses on financial performance, audience engagement, and genre-based trends using Excel.
