@@ -40,7 +40,7 @@ Approximately **33% of the data was removed**, primarily due to missing financia
 ## Analysis
 
 ### Budget vs Revenue
-![Budget vs Revenue](images/budget_vs_revenue.png)
+![Budget vs Revenue](budget_vs_revenue.png)
 
 The analysis reveals a positive relationship between budget and revenue. However, the relationship shows high variability, indicating that while higher budgets increase the potential for higher revenue, they do not guarantee success.
 
