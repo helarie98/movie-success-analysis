@@ -56,14 +56,15 @@ There is a weak positive relationship between audience ratings and revenue. This
 ### Summary Statistics
 ![Summary Statistics](Statistical_summary.png)
 
-The comparison between mean (~$122M) and median (~$56M) revenue indicates that the data is right-skewed. A small number of blockbuster movies significantly influence the average.
+The comparison between mean (~ $122M) and median (~ $56M) revenue indicates that the data is right-skewed. A small number of blockbuster movies significantly influence the average.
 
 The mean ROI (~5.14) indicates that, on average, movies generate approximately five times their production budget. However, the maximum ROI (~426) reveals the presence of extreme outliers. To mitigate their impact and ensure more reliable analysis, the dataset was filtered to include only movies with a budget greater than or equal to 100,000.
 
 ---
 
 ### Genre Analysis
-![Genre Analysis](images/genre_pivot.png)
+![Genre Analysis](images/genre_pivot_table_with_average.png)
+![Genre Analysis](images/genre_pivot_table_with_mean.png)
 
 Genre-based analysis reveals:
 
