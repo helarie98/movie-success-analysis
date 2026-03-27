@@ -47,7 +47,7 @@ The analysis reveals a positive relationship between budget and revenue. However
 ---
 
 ### Ratings vs Revenue
-![Ratings vs Revenue](images/ratings_vs_revenue.png)
+![Rating vs Revenue](rating_vs_revenue.png)
 
 There is a weak positive relationship between audience ratings and revenue. This suggests that ratings alone are not a strong predictor of financial success. High-quality movies do not always generate the highest revenue.
 
