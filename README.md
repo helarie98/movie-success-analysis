@@ -1,3 +1,134 @@
+# 🎬 Movie Success Analysis
+
+## Overview
+This project analyzes a dataset of over 3,200 movies to identify the key factors that drive movie success. The analysis focuses on financial performance, audience engagement, and genre-based trends using Excel.
+
+---
+
+## Objectives
+- Understand what defines a successful movie  
+- Analyze the relationship between budget and revenue  
+- Evaluate the impact of ratings on revenue  
+- Identify the most profitable and efficient movie genres  
+
+---
+
+## 📊 Dataset
+- Source: Kaggle (TMDB Movie Dataset)  
+- Initial size: ~4800 movies  
+- Cleaned dataset: 3203 movies  
+
+---
+
+## 🧹 Data Cleaning
+Several preprocessing steps were performed to ensure data quality:
+
+- Removed irrelevant columns  
+- Removed movies with missing or zero budget/revenue  
+- Handled missing or inconsistent entries in key columns  
+- Simplified complex genre data into a single primary genre  
+- Removed movies with budget < 100,000  
+- Created new features:
+  - Profit = Revenue − Budget  
+  - ROI (Return on Investment) = Revenue / Budget  
+  - Release Month extracted from release date  
+
+Approximately **33% of the data was removed**, primarily due to missing financial values. This ensures more reliable analysis, particularly for profit and ROI calculations.
+
+---
+
+## Analysis
+
+### Budget vs Revenue
+![Budget vs Revenue](images/budget_vs_revenue.png)
+
+The analysis reveals a positive relationship between budget and revenue. However, the relationship shows high variability, indicating that while higher budgets increase the potential for higher revenue, they do not guarantee success.
+
+---
+
+### Ratings vs Revenue
+![Ratings vs Revenue](images/ratings_vs_revenue.png)
+
+There is a weak positive relationship between audience ratings and revenue. This suggests that ratings alone are not a strong predictor of financial success. High-quality movies do not always generate the highest revenue.
+
+---
+
+### Summary Statistics
+![Summary Statistics](images/ratings_vs_revenue.png)
+
+The comparison between mean (~$122M) and median (~$56M) revenue indicates that the data is right-skewed. A small number of blockbuster movies significantly influence the average.
+
+The mean ROI (~5.14) indicates that, on average, movies generate approximately five times their production budget. However, the maximum ROI (~426) reveals the presence of extreme outliers. To mitigate their impact and ensure more reliable analysis, the dataset was filtered to include only movies with a budget greater than or equal to 100,000.
+
+---
+
+### Genre Analysis
+![Genre Analysis](images/genre_pivot.png)
+
+Genre-based analysis reveals:
+
+- Animation movies have the highest average (~$298M) and median (~$293M) revenue, indicating strong and consistent performance  
+- Documentary movies have the highest average ROI (~7.57), likely due to low production costs  
+- Western movies have the highest median ROI (~2.85), suggesting consistent efficiency  
+
+Animation movies represent only about **3% of the dataset**, so their strong performance should be interpreted with caution.
+
+---
+
+## Key Insights
+- Higher budgets increase revenue potential but do not guarantee success  
+- Audience ratings have limited influence on financial performance  
+- A small number of blockbuster movies significantly impact averages  
+- Different genres achieve success in different ways:
+  - Animation → high revenue performance  
+  - Documentary → high ROI potential  
+  - Western → consistent ROI efficiency  
+- Success should be evaluated using multiple metrics, including profit and ROI  
+
+---
+
+## Business Implications
+The findings suggest that investment decisions in the film industry should balance scale and efficiency. While high-budget productions can generate significant revenue, smaller-budget films may deliver better returns on investment. Genre selection also plays a critical role due to varying risk-return profiles.
+
+---
+
+##  Tools Used
+- Microsoft Excel  
+  - Data Cleaning  
+  - Feature Engineering  
+  - Pivot Tables  
+  - Data Visualization  
+
+---
+
+## 🚀 Conclusion
+Movie success cannot be measured by revenue alone. A combination of financial performance and efficiency metrics provides a more accurate evaluation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #🎬 Movie Success Analysis
 
