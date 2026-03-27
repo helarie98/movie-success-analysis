@@ -69,6 +69,10 @@ The mean ROI (~5.14) indicates that, on average, movies generate approximately f
 **Median Metrics by Genre**  
 ![Median Genre](genre_pivot_table_with_median.png)
 
+
+<img src="genre_pivot_table_with_average.png" width="45%"/> 
+<img src="genre_pivot_table_with_median.png" width="45%"/>
+
 Genre-based analysis reveals:
 
 - Animation movies have the highest average (~ $298M) and median (~ $293M) revenue, indicating strong and consistent performance  
