@@ -96,12 +96,6 @@ Animation movies represent only about **3% of the dataset**, so their strong per
   - Documentary → high ROI potential  
   - Western → consistent ROI efficiency  
 - Success should be evaluated using multiple metrics, including profit and ROI  
-
----
-
-## Business Implications
-The findings suggest that investment decisions in the film industry should balance scale and efficiency. While high-budget productions can generate significant revenue, smaller-budget films may deliver better returns on investment. Additionally, genre selection plays a critical role, as different genres offer varying risk-return profiles.
-
 ----
 
 ##  Tools Used
@@ -113,8 +107,8 @@ The findings suggest that investment decisions in the film industry should balan
 
 ---
 
-## 🚀 Conclusion
+# Conclusion
 [analylis](tmdb_5000_movies.ods)
 
-Movie success cannot be measured by revenue alone. A combination of financial performance and efficiency metrics provides a more accurate evaluation.
+Analysis shows that annimation movies (3% of the data) consistently generate the highest revenue, both in average and median, indicating strong and stable financial performance for the genre. In contrast, Documentary films achieved the highest average ROI, likely due to low production costs, although this may be influenced by variability. Western films exhibit the highest median ROI, suggesting more consistent efficiency in investment returns. These findings highlight that different genres achieve success through different financial dynamics, emphasizing the importance of evaluating both revenue and efficiency metrics. While high-budget productions can generate significant revenue, smaller-budget films may deliver better returns on investment. 
 
