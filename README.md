@@ -14,9 +14,13 @@ This project analyzes a dataset of over 3,200 movies to identify the key factors
 ---
 
 ## 📊 Dataset
-- Source: Kaggle (TMDB Movie Dataset)  [Raw Dataset](Raw_data.csv) 
+- Source: Kaggle (TMDB Movie Dataset)  
+  [Raw Dataset](Raw_data.csv)
+
 - Initial size: ~4800 movies  
-- Cleaned dataset: 3203 movies   [Clean Data](Clean_data.ods)
+
+- Cleaned dataset: 3203 movies  
+  [Clean Data](Clean_data.ods)
 
 ---
 
