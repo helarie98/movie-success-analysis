@@ -14,9 +14,9 @@ This project analyzes a dataset of over 3,200 movies to identify the key factors
 ---
 
 ## 📊 Dataset
-- Source: Kaggle (TMDB Movie Dataset)  
+- Source: Kaggle (TMDB Movie Dataset)  [data](Raw_data.csv)
 - Initial size: ~4800 movies  
-- Cleaned dataset: 3203 movies  
+- Cleaned dataset: 3203 movies   [data](Clean_data.ods)
 
 ---
 
@@ -107,6 +107,7 @@ The findings suggest that investment decisions in the film industry should balan
   - Pivot Tables  
   - Data Visualization  
 
+Full analysis can be found [analylis](tmdb_5000_movies.ods)
 ---
 
 ## 🚀 Conclusion
