@@ -54,7 +54,7 @@ There is a weak positive relationship between audience ratings and revenue. This
 ---
 
 ### Summary Statistics
-![Summary Statistics](images/ratings_vs_revenue.png)
+![Summary Statistics](Statistical_summary.png)
 
 The comparison between mean (~$122M) and median (~$56M) revenue indicates that the data is right-skewed. A small number of blockbuster movies significantly influence the average.
 
