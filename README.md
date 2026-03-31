@@ -108,9 +108,9 @@ Animation movies represent only about **3% of the dataset**, so their strong per
 
 [analylis](tmdb_5000_movies.ods)
 
-Analysis shows that
+Analysis shows that Annimation movies (3% of the data) consistently generate the highest revenue, both in average and median, indicating strong and stable financial performance for the genre. In contrast, Documentary films achieved the highest average ROI, likely due to low production costs, although this may be influenced by variability. Western films exhibit the highest median ROI, suggesting more consistent efficiency in investment returns. These findings highlight that different genres achieve success through different finaancial dynamics, emphasizing the importance of evaluating both revenue and efficiency metrics such as ROI, as well as the strategic factors like budget allocation and genre selection. While high-budget production can generate significant revenue, smaller-budget films may deliver better returns on investment.
 
-Analysis shows that annimation movies (3% of the data) consistently generate the highest revenue, both in average and median, indicating strong and stable financial performance for the genre. In contrast, Documentary films achieved the highest average ROI, likely due to low production costs, although this may be influenced by variability. Western films exhibit the highest median ROI, suggesting more consistent efficiency in investment returns. These findings highlight that different genres achieve success through different financial dynamics, emphasizing the importance of evaluating both revenue and efficiency metrics such as ROI, as well as strategic factors like budget allocation and genre selection. While high-budget productions can generate significant revenue, smaller-budget films may deliver better returns on investment. 
+
 ---
 
 
