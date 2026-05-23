@@ -46,14 +46,14 @@ Approximately **33% of the data was removed**, primarily due to missing financia
 ### Budget vs Revenue
 ![Budget vs Revenue](budget_vs_revenue.png)
 
-The analysis reveals a positive relationship between budget and revenue. However, the relationship shows high variability, indicating that while higher budgets increase the potential for higher revenue, they do not guarantee success.
+The analysis reveals a positive relationship between budget and revenue (The correlation coefficient is r = 0.705). However, the relationship shows high variability, indicating that while higher budgets increase the potential for higher revenue, they do not guarantee success.
 
 ---
 
 ### Ratings vs Revenue
 ![Rating vs Revenue](rating_vs_revenue.png)
 
-There is a weak positive relationship between audience ratings and revenue. This suggests that ratings alone are not a strong predictor of financial success. High-quality movies do not always generate the highest revenue.
+There is a weak positive relationship between audience ratings and revenue (the correlation coefficient is r = 0.19). This suggests that ratings alone are not a strong predictor of financial success. High-quality movies do not always generate the highest revenue.
 
 ---
 
